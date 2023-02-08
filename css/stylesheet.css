@@ -6,6 +6,16 @@ body{
 h1{
     color: yellow;
 }
+
+.navigation{
+    padding: 5px;
+    background-color: gray;
+    border: 3px white solid;
+    text-align: center;
+    color: aqua;
+    
+}
 h2{
     color:aliceblue;
 }
+
