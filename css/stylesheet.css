@@ -33,3 +33,11 @@ header{
     text-align: center;
     color: aqua; 
 }
+
+footer{
+    padding: 5px;
+    background-color: gray;
+    border: 3px white solid;
+    text-align: center;
+    color: aqua; 
+}
