@@ -41,3 +41,12 @@ footer{
     text-align: center;
     color: aqua; 
 }
+
+.grid-container{
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+}
+
+.grid-item{
+padding: 10px;
+}
