@@ -1,0 +1,115 @@
+[33mcommit 1f30c9d8001862143684779882b5e084684e6f22[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;32mmain[m[33m, [m[1;32mlab_4[m[33m)[m
+Author: Ian Macdonald <imacdonald37@my.bcit.ca>
+Date:   Tue Feb 7 22:38:38 2023 -0800
+
+    Stylesheet updated to include new font for index.html h1
+
+ css/stylesheet.css |  4 [32m++++[m
+ index.html         | 19 [32m+++[m[31m----------------[m
+ 2 files changed, 7 insertions(+), 16 deletions(-)
+
+[33mcommit 6df8636d36a01d021453997181e8ed2b2a189e5e[m
+Author: Ian Macdonald <imacdonald37@my.bcit.ca>
+Date:   Tue Feb 7 22:19:09 2023 -0800
+
+    enrolled cources moved to courses.html
+
+ misc/courses.html | 32 [32m++++++++++++++++++++++++++++++++[m
+ misc/school.html  |  3 [32m++[m[31m-[m
+ 2 files changed, 34 insertions(+), 1 deletion(-)
+
+[33mcommit ca0794fe7a793e44ae1999e6f73fd0a7cd2776fa[m
+Author: Ian Macdonald <imacdonald37@my.bcit.ca>
+Date:   Tue Feb 7 21:47:48 2023 -0800
+
+    Bcit redirect moved to school.html
+
+ misc/school.html | 18 [32m++++++++++++++++++[m
+ 1 file changed, 18 insertions(+)
+
+[33mcommit 2df6865a139b3cdbd7e1a9c30a5339144cd16168[m
+Author: Ian Macdonald <imacdonald37@my.bcit.ca>
+Date:   Tue Feb 7 21:45:44 2023 -0800
+
+    Navigation menu added
+
+ css/stylesheet.css | 10 [32m++++++++++[m
+ index.html         | 12 [32m++++++++[m[31m----[m
+ 2 files changed, 18 insertions(+), 4 deletions(-)
+
+[33mcommit 95fe581dd0790844b71ad92b81fdb64b1842861b[m
+Author: Ian Macdonald <imacdonald37@my.bcit.ca>
+Date:   Tue Feb 7 21:13:58 2023 -0800
+
+    base
+
+ .gitignore        | 2 [32m++[m
+ misc/courses.html | 0
+ misc/school.html  | 0
+ 3 files changed, 2 insertions(+)
+
+[33mcommit 005b19a1fb70432f9209deca6d92ffbf75c6ea51[m
+Author: Ian Macdonald <imacdonald37@my.bcit.ca>
+Date:   Mon Jan 30 22:12:55 2023 -0800
+
+    Final Lab 3 personal website with color and images
+
+ css/stylesheet.css   |  11 [32m+++++++++++[m
+ images/bcit_logo.png | Bin [31m0[m -> [32m27311[m bytes
+ images/my_image.jpg  | Bin [31m0[m -> [32m1311116[m bytes
+ index.html           |   4 [32m++++[m
+ 4 files changed, 15 insertions(+)
+
+[33mcommit fc23ea7901f6b0c80bd337fca16d17214b215141[m
+Author: Ian Macdonald <imacdonald37@my.bcit.ca>
+Date:   Mon Jan 30 21:30:00 2023 -0800
+
+    Personal Website with personal photo and BCIT linked logo
+
+ index.html | 4 [32m+++[m[31m-[m
+ 1 file changed, 3 insertions(+), 1 deletion(-)
+
+[33mcommit 52e10c57e3b7f70b0f382f5bca557341c0a3991d[m
+Author: Ian Macdonald <imacdonald37@my.bcit.ca>
+Date:   Mon Jan 30 21:26:45 2023 -0800
+
+    Personal Website including personal picture
+
+ index.html | 2 [32m+[m[31m-[m
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+[33mcommit 5e5df698ed26d4b5c6ea10afa40eb3450a81064b[m
+Author: Ian Macdonald <imacdonald37@my.bcit.ca>
+Date:   Wed Jan 25 00:00:05 2023 -0800
+
+    Personal Website Final
+
+ index.html | 17 [32m++++++++++++++++[m[31m-[m
+ 1 file changed, 16 insertions(+), 1 deletion(-)
+
+[33mcommit c30be1c84b4f162014961d532469216f7c75b19a[m
+Author: Ian Macdonald <imacdonald37@my.bcit.ca>
+Date:   Tue Jan 24 23:54:01 2023 -0800
+
+    Personal Website with paragraph and headers
+
+ index.html | 5 [32m++++[m[31m-[m
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+
+[33mcommit 625227d19c1909facc18f2ca9bceab2b5678c934[m
+Author: Ian Macdonald <imacdonald37@my.bcit.ca>
+Date:   Tue Jan 24 23:52:59 2023 -0800
+
+    Personal website with headers only
+
+ index.html | 30 [32m++++++++++++[m[31m------------------[m
+ 1 file changed, 12 insertions(+), 18 deletions(-)
+
+[33mcommit f99c62536d3f8c27cf27562390964a51efd0b50c[m
+Author: Ian Macdonald <imacdonald37@my.bcit.ca>
+Date:   Tue Jan 24 23:51:29 2023 -0800
+
+    Personal Website skeleton
+
+ index.html | 36 [32m++++++++++++++++++++++++++++++++++++[m
+ 1 file changed, 36 insertions(+)
