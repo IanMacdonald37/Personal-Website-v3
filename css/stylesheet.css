@@ -12,15 +12,10 @@ h1{
 }
 
 .navigation{
-    display: flex;
+
     justify-content: center;
 }
 
-.navigation-item{
-    padding: 10px;
-
-
-}
 h2{
     color:#001021;
 
@@ -60,6 +55,14 @@ padding: 10px;
 
 
 @media screen and (min-width:600px){
+    .navigation{
+        display: flex;
+    }
+    .navigation-item{
+        padding: 10px;
+    
+    
+    }
 
 .course{
     display: grid;
