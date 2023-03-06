@@ -1,10 +1,10 @@
 body{
-    background-color: black;
-    color: azure;
+    background-color: #FFF5AD;
+    color: #0E5996;
     
 }
 h1{
-    color: yellow;
+    color: #001021;
 }
 #specialfont{
     font-family: 'Montserrat', sans-serif;
@@ -22,24 +22,24 @@ h1{
 
 }
 h2{
-    color:aliceblue;
+    color:#001021;
 
 }
 
 header{
     padding: 5px;
-    background-color: gray;
-    border: 3px white solid;
+    background-color: #FF99C9;
+    border: 3px solid #000000;
     text-align: center;
-    color: aqua; 
+    color: #001021; 
 }
 
 footer{
     padding: 5px;
-    background-color: gray;
-    border: 3px white solid;
+    background-color: #FF99C9;
+    border: 3px solid #A2C7E5;
     text-align: center;
-    color: aqua; 
+    color: #001021; 
 }
 
 .grid-container{
